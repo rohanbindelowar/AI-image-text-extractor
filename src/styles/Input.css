@@ -1,0 +1,20 @@
+.inputContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin: 2vh;
+    font-size: 3vh;
+}
+
+.inputButton{
+    background: greenyellow;
+    padding: 10px;
+    border-radius: 5%;
+    cursor: pointer;
+
+}
+.inputButton:hover{
+    background-color: rgb(151, 224, 42);
+    color: white;
+}

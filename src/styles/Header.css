@@ -3,17 +3,19 @@
 display: flex;
 background-color: gray;
 color: white;
-padding: .5vh;
-justify-content: space-between;
+justify-content: center;
+align-items: center;
 padding: 2px;
+padding-right: 20px;
 }
 
 .heading{
     display: flex;
-    margin: auto;
     font-size: 5vh;
 }
 .logo{
     height: 5vh;
     margin: .5vh;
+    padding:0 3vw;
+    margin-right: 3px;
 }
